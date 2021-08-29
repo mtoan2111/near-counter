@@ -1,4 +1,6 @@
-const CONTRACT_NAME = "toantest.testnet" || "counter"; /* TODO: fill this in! */
+// const CONTRACT_NAME = "toantest.testnet" || "counter"; /* TODO: fill this in! */
+
+const CONTRACT_NAME = "mtoan2193.testnet";
 
 function getConfig(env) {
     switch (env) {
